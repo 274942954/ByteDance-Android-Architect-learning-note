@@ -32,7 +32,7 @@
 ![字节跳动高级架构师学习资料](https://upload-images.jianshu.io/upload_images/23587538-1d62cac4d87099d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-**资料获取方式：加入合作Android高级架构师交流2群：1087455512，管理处免费领取资料**
+**资料获取方式：加入合作Android高级工程技术交流：797404811，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -40,7 +40,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口：**[https://jq.qq.com/?_wv=1027&k=Xm8v7yn0](https://jq.qq.com/?_wv=1027&k=Xm8v7yn0)
+**入口：**[https://jq.qq.com/?_wv=1027&k=Xm8v7yn0](https://jq.qq.com/?_wv=1027&k=rQNOT0HH)
 
 ## [](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FAndroid-Alvin%2FAndroid-P7%2Fblob%2Fmaster%2FAndroid%25E5%25BC%2580%25E5%258F%2591%25E8%25BF%2598%25E4%25B8%258D%25E4%25BC%259A%25E8%25BF%2599%25E4%25BA%259B%25EF%25BC%259F%25E5%25A6%2582%25E4%25BD%2595%25E9%259D%25A2%25E8%25AF%2595%25E6%258B%25BF%25E9%25AB%2598%25E8%2596%25AA%25EF%25BC%2581.md%231%25E9%2598%25BF%25E9%2587%258Cp7%25E7%25BA%25A7%25E5%2585%25A8%25E5%25A5%2597%25E9%25AB%2598%25E7%25BA%25A7%25E5%25AD%25A6%25E4%25B9%25A0%25E8%25A7%2586%25E9%25A2%2591%25E4%25B8%2583%25E5%25A4%25A7%25E4%25B8%2593%25E9%25A2%2598)1.【字节跳动全套高级学习资料】九大专题：
 
@@ -125,9 +125,9 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 ## [](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FAndroid-Alvin%2FAndroid-P7%2Fblob%2Fmaster%2FAndroid%25E5%25BC%2580%25E5%258F%2591%25E8%25BF%2598%25E4%25B8%258D%25E4%25BC%259A%25E8%25BF%2599%25E4%25BA%259B%25EF%25BC%259F%25E5%25A6%2582%25E4%25BD%2595%25E9%259D%25A2%25E8%25AF%2595%25E6%258B%25BF%25E9%25AB%2598%25E8%2596%25AA%25EF%25BC%2581.md%23%25E8%25B5%2584%25E6%2596%2599%25E8%258E%25B7%25E5%258F%2596)资料获取：
 
-**入口：**[https://jq.qq.com/?_wv=1027&k=Xm8v7yn0](https://jq.qq.com/?_wv=1027&k=Xm8v7yn0)
+**入口：**[https://jq.qq.com/?_wv=1027&k=Xm8v7yn0](https://jq.qq.com/?_wv=1027&k=rQNOT0HH)
 
-**资料获取方式：加入合作Android高级架构师交流2群：1087455512，管理处免费领取资料**
+**资料获取方式：加入合作Android高级工程技术交流：797404811，管理处免费领取资料**
 
 **Android架构师之路很漫长，一起共勉吧！**
 
